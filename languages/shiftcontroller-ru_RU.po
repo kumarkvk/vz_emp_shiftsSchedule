@@ -1,0 +1,821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d Комментарий"
+msgstr[1] "%d комментария"
+msgstr[2] "%d комментариев"
+
+msgid "%d Conflict"
+msgid_plural "%d Conflicts"
+msgstr[0] "%d конфликт"
+msgstr[1] "%d конфликта"
+msgstr[2] "%d конфликтов"
+
+msgid "%d Day In Total"
+msgid_plural "%d Days In Total"
+msgstr[0] "Итого %d день"
+msgstr[1] "Итого %d дня"
+msgstr[2] "Итого %d дней"
+
+msgid "%d Day"
+msgid_plural "%d Days"
+msgstr[0] "%d день"
+msgstr[1] "%d дня"
+msgstr[2] "%d дней"
+
+msgid "%d Hour"
+msgid_plural "%d Hours"
+msgstr[0] "%d час"
+msgstr[1] "%d часа"
+msgstr[2] "%d часов"
+
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] "%d минута"
+msgstr[1] "%d минуты"
+msgstr[2] "%d минут"
+
+#  title for shifts that have no employee assigned yet
+msgid "%d Open Shift"
+msgid_plural "%d Open Shifts"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Pending Timeoff Request"
+msgid_plural "%d Pending Timeoff Requests"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d Shift Release Pending"
+msgid_plural "%d Shift Release Pending"
+msgstr[0] "%d запрос на освобождение от смены"
+msgstr[1] "%d запроса на освобождение от смены"
+msgstr[2] "%d запросов на освобождение от смены"
+
+msgid "%d shift added"
+msgid_plural "%d shifts added"
+msgstr[0] "%d смена создана"
+msgstr[1] "%d смены созданы"
+msgstr[2] "%d смен создано"
+
+msgid "%d shift deleted"
+msgid_plural "%d shifts deleted"
+msgstr[0] "%d смена удалена"
+msgstr[1] "%d смены удалено"
+msgstr[2] "%d смен удалено"
+
+msgid "%d shift updated"
+msgid_plural "%d shifts updated"
+msgstr[0] "%d смена изменена"
+msgstr[1] "%d смены изменено"
+msgstr[2] "%d смен изменено"
+
+msgid "%s Day Off"
+msgid_plural "%s Days Off"
+msgstr[0] "%s выходной"
+msgstr[1] "%s выходных"
+msgstr[2] "%s выходных"
+
+msgid "%s Day On"
+msgid_plural "%s Days On"
+msgstr[0] "%s рабочий день"
+msgstr[1] "%s рабочих дня"
+msgstr[2] "%s рабочих дней"
+
+#  short duration format in days, for example 4 d
+msgid "%s d"
+msgstr ""
+
+#  short duration format in hours, for example 1.25 hr
+msgid "%s hr"
+msgstr ""
+
+#  short duration format in minutes, for example 25 min
+msgid "%s min"
+msgstr ""
+
+msgid "1st"
+msgstr "1-й"
+
+msgid "2nd"
+msgstr "2-й"
+
+msgid "3rd"
+msgstr "3-й"
+
+msgid "4th"
+msgstr "4-й"
+
+msgid "5th"
+msgstr "5-й"
+
+msgid "Access denied"
+msgstr "Доступ не разрешен"
+
+#  status, status
+msgid "Active"
+msgstr "Активный"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add New Availability"
+msgstr ""
+
+msgid "Add New Comment"
+msgstr "Добавить новый комментарий"
+
+msgid "Add New Location"
+msgstr "Добавить новое место"
+
+msgid "Add New Shift Template"
+msgstr "Добавить новую заготовку смены"
+
+msgid "Add New Shift"
+msgid_plural "Add %d New Shifts"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Add New User"
+msgstr "Добавить нового пользователя"
+
+msgid "Add Staff"
+msgstr "Добавить сотрудника"
+
+#  User level
+msgid "Admin"
+msgstr "Администратор"
+
+msgid "Admin Approval Required"
+msgstr "Требуется одобрение администратора"
+
+msgid "Admin Area"
+msgstr ""
+
+msgid "Alert If Shift In Unavailable Time"
+msgstr ""
+
+msgid "Alert If Shift Not Within Preferred Time"
+msgstr ""
+
+#  duration, during all day
+msgid "All Day"
+msgstr "Весь день"
+
+msgid "All Time"
+msgstr "Все время"
+
+msgid "All Users"
+msgstr "Все пользователи"
+
+msgid "Approve"
+msgstr "Утвердить"
+
+#  short April
+msgid "Apr"
+msgstr "Апр"
+
+msgid "Archive User"
+msgstr "Пользователя в архив"
+
+#  status
+msgid "Archived"
+msgstr "Архивированное"
+
+msgid "Assign Staff"
+msgstr "Назначить сотрудника"
+
+msgid "At least %s characters required"
+msgstr "Необходимо как минимум %s знаков"
+
+#  short August
+msgid "Aug"
+msgstr "Авг"
+
+msgid "Availability"
+msgstr ""
+
+msgid "Availability Type"
+msgstr ""
+
+msgid "Availability added"
+msgstr ""
+
+msgid "Availability deleted"
+msgstr ""
+
+msgid "Availability updated"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Back To Start Page"
+msgstr "Назад к началу"
+
+msgid "Biweekly"
+msgstr "Раз в две недели"
+
+#  view type, i.e. Calendar View
+msgid "Calendar"
+msgstr "Календарь"
+
+msgid "Cancel"
+msgstr ""
+
+#  status
+msgid "Cancelled"
+msgstr "Отменено"
+
+msgid "Change"
+msgstr "Изменить"
+
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+msgid "Click Here To Pick Up The Shift"
+msgstr "Нажмите здесь, чтобы забрать смену"
+
+msgid "Click Here To Release The Shift"
+msgstr "Нажмите здесь, чтобы освободиться от смены"
+
+msgid "Comment Visible To"
+msgstr "Комментарий виден для"
+
+msgid "Comment added"
+msgstr "Комментарий добавлен"
+
+msgid "Comment deleted"
+msgstr "Комментарий удален"
+
+msgctxt "noun"
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Configuration"
+msgstr "Установки"
+
+msgid "Confirm Password"
+msgstr "Подтвердить пароль"
+
+msgid "Conflict"
+msgstr "Конфликт"
+
+msgid "Conflicts"
+msgstr "Конфликты"
+
+msgid "Custom Range"
+msgstr "Свободный период"
+
+msgid "Daily"
+msgstr "Ежедневно"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Date Format"
+msgstr "Формат даты"
+
+msgid "Date and Time"
+msgstr "Дата и время"
+
+msgid "Day"
+msgstr "День"
+
+#  short December
+msgid "Dec"
+msgstr "Дек"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Disable Email"
+msgstr "Отключить email"
+
+msgid "Do Not Import"
+msgstr "Не импортировать"
+
+msgid "Download"
+msgstr "Скачать"
+
+msgid "Draft"
+msgstr "Черновик"
+
+msgid "Duration"
+msgstr "Длительность"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Edit My Profile"
+msgstr "Изменить мой профиль"
+
+msgid "Edit User"
+msgstr "Редактировать пользователя"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "End Time"
+msgstr "Время окончания"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Every Weekday"
+msgstr "Каждый рабочий день"
+
+msgid "Everyone"
+msgstr "Все"
+
+#  short February
+msgid "Feb"
+msgstr "Фев"
+
+msgctxt "noun"
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "First Name"
+msgstr "Имя"
+
+#  short Friday
+msgid "Fri"
+msgstr "Пт."
+
+msgid "From End"
+msgstr "С конца"
+
+msgid "Full Schedule"
+msgstr ""
+
+msgid "Get New Password"
+msgstr "Получить новый пароль"
+
+msgid "Group By Location"
+msgstr ""
+
+msgid "Group By Staff"
+msgstr ""
+
+msgid "History"
+msgstr "История"
+
+#  short January
+msgid "Jan"
+msgstr "Янв"
+
+#  short July
+msgid "Jul"
+msgstr "Июл"
+
+#  short June
+msgid "Jun"
+msgstr "Июн"
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+#  view type, i.e. List View
+msgid "List"
+msgstr "Списком"
+
+msgid "Location"
+msgstr "Место"
+
+msgid "Location added"
+msgstr "Место добавлено"
+
+msgid "Location deleted"
+msgstr "Место удалено"
+
+msgid "Location updated"
+msgstr "Место изменено"
+
+msgid "Locations"
+msgstr "Места"
+
+msgid "Log In"
+msgstr "Войти"
+
+msgid "Log In With"
+msgstr "Войти с"
+
+msgid "Log Out"
+msgstr "Выйти"
+
+msgid "Logged In Users"
+msgstr "Зарегестрированные пользователи"
+
+msgid "Lost your password?"
+msgstr "Потерян пароль?"
+
+#  User level
+msgid "Manager"
+msgstr "Менеджер"
+
+#  short March
+msgid "Mar"
+msgstr "Мар"
+
+msgid "Max End Time"
+msgstr "Максимальное время окончания"
+
+#  short May
+msgid "May"
+msgstr "Май"
+
+msgid "Min Start Time"
+msgstr "Минимальное время начала"
+
+#  short Monday
+msgid "Mon"
+msgstr "Пн."
+
+msgid "Month"
+msgstr "Месяц"
+
+msgid "Monthly"
+msgstr "Ежемесячно"
+
+msgid "More Filters"
+msgstr "Еще фильтры"
+
+msgid "Move Down"
+msgstr "Переместить ниже"
+
+msgid "Move Up"
+msgstr "Перенести выше"
+
+msgid "Multiple Days"
+msgstr "Несколько дней"
+
+msgid "My Schedule"
+msgstr "Мой график работы"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "New Password"
+msgstr "Новый пароль"
+
+msgid "No"
+msgstr "Нет"
+
+#  list output without grouping
+msgid "No Grouping"
+msgstr "Без группировки"
+
+msgid "No Request"
+msgstr "Без запроса"
+
+msgid "No action needed"
+msgstr "Не требуется никаких действий"
+
+msgid "No staff available for this shift"
+msgstr "Нет сотрудников для этой смены"
+
+msgid "Nobody"
+msgstr "Никто"
+
+#  availability type
+msgid "Not Within Preferred Availability"
+msgstr ""
+
+msgid "Nothing"
+msgstr "Пусто"
+
+#  short November
+msgid "Nov"
+msgstr "Ноя"
+
+msgid "OK"
+msgstr "ОК"
+
+#  this is an entry in the list of changes history of an object
+msgid "Object Created"
+msgstr "Объект создан"
+
+msgid "Object not found"
+msgstr "Объект не найдет"
+
+#  short October
+msgid "Oct"
+msgstr "Окт"
+
+msgid "Old Value"
+msgstr "Старое значение"
+
+msgid "Open Shift"
+msgstr ""
+
+#  title for shifts that have no employee assigned yet
+msgid "Open Shifts"
+msgstr "Открытые смены"
+
+msgid "Overlapping Conflict"
+msgstr "Конфликт пересечения"
+
+msgid "Overview"
+msgstr "Обзор"
+
+msgid "Owner"
+msgstr "Владелец"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password changed"
+msgstr ""
+
+msgid "Password reset message has been sent to your email"
+msgstr "Ссылка для сброса пароля была отправлена на email."
+
+#  status
+msgid "Pending"
+msgstr "Ожидает одобрения"
+
+msgid "Pick Up Shift"
+msgstr "Взять смену"
+
+#  availability type
+msgid "Preferred"
+msgstr ""
+
+msgid "Print"
+msgstr "Печать"
+
+msgid "Reject"
+msgstr "Отклонить"
+
+msgid "Release Shift"
+msgstr "Освободить смену"
+
+msgid "Request New Timeoff"
+msgid_plural "Request %d New Timeoffs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Required field"
+msgstr "Обязательно для заполнения"
+
+msgid "Restore User"
+msgstr "Восстановить пользователя"
+
+#  short Saturday
+msgid "Sat"
+msgstr "Сб."
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Select All"
+msgstr "Выделить все"
+
+msgid "Select Later"
+msgstr "Выбрать позже"
+
+msgid "Selected Days"
+msgstr "Выбранные дни"
+
+msgid "Send Email Notifications From Address"
+msgstr "Отправлять уведомления по электронной почте с адреса"
+
+msgid "Send Email Notifications From Name"
+msgstr "Отправлять уведомления по электронной почте от имени"
+
+#  short September
+msgid "Sep"
+msgstr "Сен"
+
+msgid "Separator in csv files"
+msgstr "Разделитель в csv-файлах"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Settings reset to default"
+msgstr "Настройки сброшены по умолчанию"
+
+msgid "Settings updated"
+msgstr "Настройки обновлены"
+
+msgid "Shift"
+msgstr "Смена"
+
+msgid "Shift Release"
+msgstr "Освобождение смены"
+
+msgid "Shift Release Pending"
+msgstr "Освобождение смены ожидает одобрения"
+
+msgid "Shift Series"
+msgstr "Серия смен"
+
+msgid "Shift Template"
+msgstr "Шаблон времени смены"
+
+msgid "Shift Templates"
+msgstr "Шаблоны времени смены"
+
+msgid "Shift cancelled"
+msgstr ""
+
+msgid "Shift changed"
+msgstr ""
+
+msgid "Shift picked up"
+msgstr "Смена взята"
+
+msgid "Shift pickup request received"
+msgstr "Запрос на взятие смены получен"
+
+msgid "Shift published"
+msgstr ""
+
+msgid "Shift release rejected"
+msgstr "Освобождение смены не принято"
+
+msgid "Shift release request received"
+msgstr "Запрос на освобождение смены получен"
+
+msgid "Shift released"
+msgstr "Смена освобождена"
+
+msgid "Shifts Available For Pickup"
+msgstr "Смены для пикап"
+
+msgid "Single Day"
+msgstr "Один день"
+
+msgid "Skip Notification Email"
+msgstr "Не отправлять оповещение по электронной почте"
+
+#  User level
+msgid "Staff"
+msgstr "Сотрудник"
+
+msgid "Staff Can Pick Up Open Shifts"
+msgstr "Сотрудники могут выбирать свободные смены"
+
+msgid "Staff Can Release Shifts"
+msgstr "Сотрудники могут освобождать смены"
+
+msgid "Staff Can See Others Schedule"
+msgstr "Сотрудники могут видеть расписание других сотрудников"
+
+msgid "Start Time"
+msgstr "Время начала"
+
+msgid "Status"
+msgstr "Статус"
+
+#  short Sunday
+msgid "Sun"
+msgstr "Вс."
+
+msgid "Sync Users"
+msgstr "Синхронизация пользователей"
+
+msgid "The %s field does not match the %s field"
+msgstr "Поле \"%s\" не соответствует полю \"%s\""
+
+msgid "The end date should be after the start date"
+msgstr ""
+
+msgid "The end time should differ from the start time"
+msgstr ""
+
+msgid "These values should differ from each other"
+msgstr "Эти значения должны отличаться друг от друга"
+
+msgid "This email address %s was not found"
+msgstr "Этот адрес электронной почты %s не найден"
+
+msgid "This user account is disabled"
+msgstr "Эта учетная запись пользователя отключена"
+
+msgid "This value is already used"
+msgstr "Это значение уже используется"
+
+#  short Thursday
+msgid "Thu"
+msgstr "Чт."
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Time Format"
+msgstr "Формат времени"
+
+msgid "Timeoff"
+msgstr "Отгул"
+
+msgid "Timeoff Requests"
+msgstr ""
+
+msgid "Timeoff cancelled"
+msgstr ""
+
+msgid "Timeoff published"
+msgstr ""
+
+msgid "Timeoff request pending"
+msgstr ""
+
+msgid "Todo"
+msgstr "Что делать"
+
+#  short Tuesday
+msgid "Tue"
+msgstr "Вт."
+
+msgid "Type"
+msgstr "Тип"
+
+msgctxt "noun"
+msgid "Type"
+msgstr "Тип"
+
+#  availability type, availability type
+msgid "Unavailable"
+msgstr ""
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#  it refers to the upcoming time range
+msgid "Upcoming"
+msgstr "Все предстоящие"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "User Level"
+msgstr "Уровень пользователя"
+
+msgid "User added"
+msgstr "Пользователь добавлен"
+
+msgid "User updated"
+msgstr "Пользователь обновлен"
+
+msgid "Username"
+msgstr "Логин"
+
+msgid "Users"
+msgstr "Пользователи"
+
+msgid "Valid email address required"
+msgstr "Требуется действительный адрес электронной почты"
+
+#  short Wednesday
+msgid "Wed"
+msgstr "Ср."
+
+msgid "Week"
+msgstr "Неделя"
+
+msgid "Week Starts On"
+msgstr "Неделя начинается в"
+
+msgid "Weekly"
+msgstr "Еженедельно"
+
+msgid "Who Can See Full Schedule"
+msgstr ""
+
+msgid "Who Can Work"
+msgstr "Кто может работать"
+
+msgid "With Selected"
+msgstr "С выбранным"
+
+msgid "Wrong username or password"
+msgstr "Неверное имя пользователя или пароль"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You have been logged out"
+msgstr "Вы вышли из системы"
+
+msgid "Your manager will review your request and approve or deny it. Until approval, you are still responsible for the shift."
+msgstr "Ваш менеджер рассмотрит ваш запрос и одобрит или отменит его. До обобрения вы по-прежнему отвечаете за смену."
+
